@@ -1,4 +1,2 @@
 Flask
 Flask-Cors
-secure-smtplib
-email
